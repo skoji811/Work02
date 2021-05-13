@@ -1,2 +1,2 @@
 # Work02 
-Todoリストの作成
+Todoリスト
