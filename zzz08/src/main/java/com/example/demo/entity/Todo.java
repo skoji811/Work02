@@ -8,6 +8,6 @@ public class Todo {
 
     private Long id;
 
-   
+   @NotBlank
     private String task;
 }
